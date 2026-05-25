@@ -1,0 +1,27 @@
+[
+  {
+    "_schema": true,
+    "word": "string — the blerbyerp word",
+    "english": "string — closest english translation",
+    "pronunciation": "string — syllables in CAPS are stressed (e.g. HUCKS-pul)",
+    "part_of_speech": "noun | verb | adjective | adverb | contraction | other",
+    "definition": "string — full definition in english",
+    "morphemes": "object — { morpheme: meaning } pairs that make up the word",
+    "example": "string — example sentence in blerbyerp",
+    "example_translation": "string — english translation of the example",
+    "tags": "array — category tags e.g. [emotion, travel]",
+    "added": "string — date added YYYY-MM-DD"
+  },
+  {
+    "word": "huxpl",
+    "english": "there's",
+    "pronunciation": "HUX-pul",
+    "part_of_speech": "contraction",
+    "definition": "Contraction meaning there is / there's",
+    "morphemes": {"hux":"there","pl":"'s/is"},
+    "example": "Huxpl joiply joixpl skrix'hep.",
+    "example_translation": "There's no way you're six foot 7 / 6'7",
+    "tags": ["contraction"],
+    "added": "2026-05-25"
+  }
+]
