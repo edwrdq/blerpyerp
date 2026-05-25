@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "blerbyerp",
+      "name": "blerpyerp",
       "dependencies": {
         "astro": "^6.3.7",
       },

@@ -1,4 +1,4 @@
-# blerbyerp
+# blerpyerp
 
 An open source constructed language, free forever.
 

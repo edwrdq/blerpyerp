@@ -1,13 +1,13 @@
 [
   {
     "_schema": true,
-    "word": "string — the blerbyerp word",
+    "word": "string — the blerpyerp word",
     "english": "string — closest english translation",
     "pronunciation": "string — syllables in CAPS are stressed (e.g. HUCKS-pul)",
     "part_of_speech": "noun | verb | adjective | adverb | contraction | other",
     "definition": "string — full definition in english",
     "morphemes": "object — { morpheme: meaning } pairs that make up the word",
-    "example": "string — example sentence in blerbyerp",
+    "example": "string — example sentence in blerpyerp",
     "example_translation": "string — english translation of the example",
     "tags": "array — category tags e.g. [emotion, travel]",
     "added": "string — date added YYYY-MM-DD"
